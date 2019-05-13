@@ -1,0 +1,33 @@
+/* Start Navbar  */
+@media (max-width:767px) {
+
+    nav h1 {
+        margin:10px;
+    }
+
+    .slider .slider-filter section h1 {
+        font-size:30px;
+    }
+
+    .slider .slider-filter section p {
+        width:290px;
+        font-size:11px;
+    }
+}
+
+@media (min-width:991px) and (max-width:1430px) {
+    nav  .pcc-li .nested-ul {
+        left:-120px;
+    }
+}
+
+/* End Navbar  */
+
+/* Start product */
+@media (max-width:767px) {
+    .product .product-img section img {
+        max-width:300px;
+    }
+}
+
+/* End product */
